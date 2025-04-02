@@ -1,6 +1,6 @@
 # Tabs to Beatmap Parser
 
-Converts Tablature notation to a JSON beat-map for use in rhythm games.
+Converts tablature notation to a JSON beat-map for use in rhythm games.
 
 ## Usage
 This parser is not robust. Format your tab correctly or it will fail to give you accurate JSON.
