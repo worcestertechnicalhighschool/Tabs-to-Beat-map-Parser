@@ -28,7 +28,7 @@ Run the file using node. Be sure to include the arguments needed to find the tab
 
 _example usage_
 
-`node tabparser.js example.tab "The Song" "The Band"`
+`node tabparser.js example.tab "Example" "The Band"`
 
 ## Example Json
 
