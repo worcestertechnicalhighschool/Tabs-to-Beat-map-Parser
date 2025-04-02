@@ -18,7 +18,7 @@ if (error) {
   return
 }
 
-fs.readFile("allstar.tab", "utf8", (err, data) => {
+fs.readFile(fileArg, "utf8", (err, data) => {
   if (err) {
     console.log(err);
     return;

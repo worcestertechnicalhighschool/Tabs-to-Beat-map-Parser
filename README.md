@@ -39,7 +39,7 @@ _example.json_
   "name": "Example",
   "artist": "A Band",
   "seconds": 200,
-  "units": 1465,
+  "units": 65,
   "notes": [
     {
       "note": 0,
